@@ -1,4 +1,5 @@
 # HR-ANALYTICS
+ Develop a comprehensive HR analytics dashboard to enhance organizational performance by analyzing key metrics related to employee engagement, productivity, and satisfaction, with the aim of reducing attrition and fostering a positive workplace culture.
 
 
 
